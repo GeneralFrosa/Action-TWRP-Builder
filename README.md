@@ -1,6 +1,6 @@
 # Use Github Action to compile Recovery
 
-- Support TWRP, SHRP compilation and production
+- Support PBRP compilation and production
 
 ---
 
